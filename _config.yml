@@ -1,7 +1,7 @@
-title: Your awesome title
-name: Your Name
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+title: Corey Dekker
+name: Corey Dekker
+email: cdekk3r@hotmail.com
+description: Web Developer
 
 baseurl: "/blog"
 url: ""
@@ -9,143 +9,153 @@ url: ""
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one: Blog Application
+project_one_description: With this application users can post, vote on, share and save links and comments. I built this application using Ruby on Rails. One of the core concepts I learned about through this project is the use of Test Driven Development . It also introduced me to the four basic create, read, update, and delete functions.
+project_one_url: https://github.com/cdekk3r/bloccit
 project_one_icon: location_on
 
-project_two: Second Project
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two: Wiki Application
+project_two_description: Built with Ruby on Rails. Allows users to create public or private markdown-based wikis as well as collaborate with others. Implemented key features such as authentication, authorization and payment transactions using Devise, Pundit and Stripe. 
+project_two_url: https://github.com/cdekk3r/Wiki-App
 project_two_icon: photo_camera
 
 
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_three: Music Application
+project_three_description: A basic music playing application with standard controls to pause, play, seek, and switch between songs. The app was built and refactored using a few JavaScript frameworks. DOM manipulation was used initially. It was then refactored using jQuery and then again using AngularJS.
+project_three_url: https://github.com/cdekk3r/bloc-jams
 project_three_icon: hotel
 
 
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four: Connect 4
+project_four_description: An implementation of the another classic game Connect Four created in JavaScript/jQuery making use of data attributes.  A two-player game where discs are dropped into a seven column by six row grid. The goal being to "connect four" discs of the same color horizontally, vertically, or diagonally.
+project_four_url: https://github.com/cdekk3r/connect-four
 project_four_icon: restaurant
 
-portfolio_heading: Portfolio
+project_five: Pong
+project_five_description: A replica of the arcade classic Pong. Created with pure JavaScript and the HTML5 canvas element. It simulates a table-tennis or ping-pong game against a computer AI.
+project_five_url: https://github.com/cdekk3r/pong-game
+project_five_icon: restaurant
+
+project_six: To be continued..
+project_six_description: Future projects will be located here!
+# project_five_url:
+project_six_icon: restaurant
+
+portfolio_heading: Projects
 portfolio_type: cards
 
 syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
 
 skills:
-  - name: amazonwebservices
-  - name: android
+  # - name: amazonwebservices
+  # - name: android
   - name: angularjs
-  - name: apache
-  - name: appcelerator
-  - name: apple
+  # - name: apache
+  # - name: appcelerator
+  # - name: apple
   - name: atom
-  - name: babel
-  - name: backbonejs
-  - name: bitbucket
+  # - name: babel
+  # - name: backbonejs
+  # - name: bitbucket
   - name: bootstrap
-  - name: bower
-  - name: c
+  # - name: bower
+  # - name: c
   - name: chrome
-  - name: codeigniter
-  - name: coffescript
-  - name: confluence
-  - name: cplusplus
-  - name: csharp
+  # - name: codeigniter
+  # - name: coffescript
+  # - name: confluence
+  # - name: cplusplus
+  # - name: csharp
   - name: css3
-  - name: cucumber
-  - name: d3js
-  - name: debian
-  - name: devicon
-  - name: django
-  - name: docker
-  - name: doctrine
-  - name: dot-net
-  - name: drupal
-  - name: erlang
+  # - name: cucumber
+  # - name: d3js
+  # - name: debian
+  # - name: devicon
+  # - name: django
+  # - name: docker
+  # - name: doctrine
+  # - name: dot-net
+  # - name: drupal
+  # - name: erlang
   - name: facebook
-  - name: firefox
-  - name: foundation
-  - name: gatling
-  - name: gimp
+  # - name: firefox
+  # - name: foundation
+  # - name: gatling
+  # - name: gimp
   - name: git
   - name: github
-  - name: gitlab
-  - name: go
+  # - name: gitlab
+  # - name: go
   - name: google
-  - name: gradle
-  - name: grunt
-  - name: gulp
+  # - name: gradle
+  # - name: grunt
+  # - name: gulp
   - name: heroku
   - name: html5
-  - name: ie10
-  - name: illustrator
-  - name: inkscape
-  - name: itellij
-  - name: java
-  - name: jasmine
+  # - name: ie10
+  # - name: illustrator
+  # - name: inkscape
+  # - name: itellij
+  # - name: java
+  # - name: jasmine
   - name: javascript
-  - name: laravel
-  - name: less
-  - name: linux
-  - name: meteor
-  - name: mocha
-  - name: mongodb
-  - name: moodle
-  - name: mysql
-  - name: nginx
-  - name: nodejs
-  - name: nodewebkit
-  - name: oracle
-  - name: photoshop
-  - name: php
-  - name: phpstorm
-  - name: protractor
-  - name: postgresql
-  - name: python
-  - name: pycharm
+  # - name: laravel
+  # - name: less
+  # - name: linux
+  # - name: meteor
+  # - name: mocha
+  # - name: mongodb
+  # - name: moodle
+  # - name: mysql
+  # - name: nginx
+  # - name: nodejs
+  # - name: nodewebkit
+  # - name: oracle
+  # - name: photoshop
+  # - name: php
+  # - name: phpstorm
+  # - name: protractor
+  # - name: postgresql
+  # - name: python
+  # - name: pycharm
   - name: rails
-  - name: react
-  - name: redhat
-  - name: redis
+  # - name: react
+  # - name: redhat
+  # - name: redis
   - name: ruby
-  - name: rubymine
-  - name: safari
+  # - name: rubymine
+  # - name: safari
   - name: sass
-  - name: sequelize
+  # - name: sequelize
   - name: slack
-  - name: sourcetree
-  - name: ssh
-  - name: swift
-  - name: symfony
-  - name: tomcat
-  - name: travis
-  - name: trello
-  - name: twitter
-  - name: typescript
-  - name: ubuntu
-  - name: vim
-  - name: visualstudio
-  - name: vuejs
-  - name: webpack
-  - name: webstorm
+  # - name: sourcetree
+  # - name: ssh
+  # - name: swift
+  # - name: symfony
+  # - name: tomcat
+  # - name: travis
+  # - name: trello
+  # - name: twitter
+  # - name: typescript
+  # - name: ubuntu
+  # - name: vim
+  # - name: visualstudio
+  # - name: vuejs
+  # - name: webpack
+  # - name: webstorm
   - name: windows8
-  - name: wordpress
-  - name: yii
-  - name: zend
+  # - name: wordpress
+  # - name: yii
+  # - name: zend
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
 
 project_button: Github
 
-github: https://github.com/jameshamann/jekyll-material-theme
-medium: https://medium.com
+github: https://github.com/cdekk3r
+medium: https://www.linkedin.com/in/corey-dekker/
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
 url: http://localhost:4000/ #the url of your site
