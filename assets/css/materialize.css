@@ -2159,6 +2159,7 @@ html {
  */
 body {
   margin: 0;
+  background-color: #dee1e5;
 }
 
 /* HTML5 display definitions
@@ -3102,7 +3103,7 @@ td, th {
 }
 
 .collection.with-header .collection-header {
-  background-color: #fff;
+  background-color: #a4aebf;
   border-bottom: 1px solid #e0e0e0;
   padding: 10px 20px;
 }
@@ -4743,7 +4744,7 @@ small {
 }
 
 .card.small .card-image, .card.medium .card-image, .card.large .card-image {
-  max-height: 60%;
+  max-height: 100%;
   overflow: hidden;
 }
 
@@ -4752,7 +4753,7 @@ small {
 }
 
 .card.small .card-content, .card.medium .card-content, .card.large .card-content {
-  max-height: 100%;
+  height: auto;
   overflow: hidden;
 }
 
@@ -4768,7 +4769,7 @@ small {
 }
 
 .card.medium {
-  height: 400px;
+  height: 500px;
 }
 
 .card.large {
@@ -5128,7 +5129,7 @@ small {
   height: 7px;
   width: 14px;
   border-radius: 0 0 50% 50%;
-  background-color: #323232;
+  background-color: #a4aebf;
   z-index: -1;
   -webkit-transform-origin: 50% 0%;
           transform-origin: 50% 0%;

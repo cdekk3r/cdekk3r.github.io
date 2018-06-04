@@ -6,11 +6,11 @@ description: Web Developer
 baseurl: "/blog"
 url: ""
 
-parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/startup3.jpg
+parallax_image_one: assets/images/front.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/front.jpg
 
 project_one: Blog Application
-project_one_description: With this application users can post, vote on, share and save links and comments. I built this application using Ruby on Rails. One of the core concepts I learned about through this project is the use of Test Driven Development . It also introduced me to the four basic create, read, update, and delete functions.
+project_one_description: Users can post, vote on, share and save links and comments. I built this application using Ruby on Rails. One of the core concepts I learned about through this project is the use of Test Driven Development . It also introduced me to the four basic create, read, update, and delete functions.
 project_one_url: https://github.com/cdekk3r/bloccit
 project_one_icon: location_on
 
