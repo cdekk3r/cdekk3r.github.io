@@ -3,8 +3,8 @@ name: Corey Dekker
 email: cdekk3r@hotmail.com
 description: Web Developer
 
-baseurl: "/blog"
-url: ""
+baseurl: ""
+url: "http://cdekk3r.github.io"
 
 parallax_image_one: assets/images/front.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/front.jpg
