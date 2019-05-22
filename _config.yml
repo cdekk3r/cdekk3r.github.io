@@ -9,15 +9,15 @@ url: "http://cdekk3r.github.io"
 parallax_image_one: assets/images/front.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/front.jpg
 
-project_one: Blog Application
-project_one_description: Users can post, vote on, share and save links and comments. I built this application using Ruby on Rails. One of the core concepts I learned about through this project is the use of Test Driven Development . It also introduced me to the four basic create, read, update, and delete functions.
-project_one_url: https://github.com/cdekk3r/bloccit
+project_one: Weather App
+project_one_description: Search for current and five day forecast via zip code using openweathermap API.
+project_one_url: https://github.com/cdekk3r/react-weather
 project_one_icon: location_on
 
-project_two: Wiki Application
-project_two_description: Built with Ruby on Rails. Allows users to create public or private markdown-based wikis as well as collaborate with others. Implemented key features such as authentication, authorization and payment transactions using Devise, Pundit and Stripe. 
-project_two_url: https://github.com/cdekk3r/Wiki-App
-project_two_icon: photo_camera
+project_two: Blog Application
+project_two_description: Users can post, vote on, share and save links and comments. I built this application using Ruby on Rails. One of the core concepts I learned about through this project is the use of Test Driven Development . It also introduced me to the four basic create, read, update, and delete functions.
+project_two_url: https://github.com/cdekk3r/bloccit
+project_two_icon: location_on
 
 
 project_three: Music Application
@@ -36,10 +36,15 @@ project_five_description: A replica of the arcade classic Pong. Created with pur
 project_five_url: https://github.com/cdekk3r/pong-game
 project_five_icon: restaurant
 
-project_six: To be continued..
-project_six_description: Future projects will be located here!
+project_six: Wiki Application
+project_six_description: Built with Ruby on Rails. Allows users to create public or private markdown-based wikis as well as collaborate with others. Implemented key features such as authentication, authorization and payment transactions using Devise, Pundit and Stripe. 
+project_six_url: https://github.com/cdekk3r/Wiki-App
+project_six_icon: photo_camera
+
+project_seven: To be continued..
+project_seven_description: Future projects will be located here!
 # project_five_url:
-project_six_icon: restaurant
+project_seven_icon: restaurant
 
 portfolio_heading: Projects
 portfolio_type: cards
