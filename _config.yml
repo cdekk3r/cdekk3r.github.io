@@ -1,4 +1,4 @@
-title: Corey
+title: Corey Dekker
 name: Corey Dekker
 email: cdekk3r@hotmail.com
 description: Web Developer
@@ -10,7 +10,7 @@ parallax_image_one: assets/images/front.jpg # These are the images used for the 
 parallax_image_two: assets/images/front.jpg
 
 project_one: Weather App
-project_one_description: Search for current and five day forecast via zip code using openweathermap API.
+project_one_description: Search for current and five day forecast via zip code using openweathermap API. Built with React.
 project_one_url: https://github.com/cdekk3r/react-weather
 project_one_icon: location_on
 
